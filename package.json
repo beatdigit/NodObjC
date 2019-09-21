@@ -29,10 +29,10 @@
   },
   "dependencies": {
     "debug": "*",
-    "function-class": "git+ssh://git@github.com:beatdigit/node-function-class.git",
+    "function-class": "git+ssh://git@github.com:beatdigit/node-function-class.git#master",
     "setprototypeof": "^1.0.0",
     "ffi": "git+ssh://git@github.com:beatdigit/node-ffi.git#master",
     "ref": "git+ssh://git@github.com:beatdigit/ref.git#master",
-    "ref-struct": "git+ssh://git@github.com:beatdigit/ref-struct.git"
-  },
+    "ref-struct": "git+ssh://git@github.com:beatdigit/ref-struct.git#master"
+  }
 }
